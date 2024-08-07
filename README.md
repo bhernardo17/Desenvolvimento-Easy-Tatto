@@ -17,7 +17,7 @@
 -------------------
 📲 *PMI II*
 
-⌨️ _*url Protótipo (Figma):*_
+⌨️ _*url Protótipo (Figma):*https://www.figma.com/design/37kRr9A8zKFgpt0yxGk552/ProjetoFigma?node-id=0-1&t=bFcWklgOZb4A4CWk-1
 📝 _*url Modelagem Sistema:*_
 -------------------
 💻 *PMI III*
